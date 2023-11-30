@@ -1,0 +1,30 @@
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+}
+
+.list-group-item p {
+    margin-bottom: 5px;
+}
+
+.list-group-item small {
+    display: block;
+    margin-top: 5px;
+}
+
+.list-group-item-success {
+    background-color: darkseagreen;
+}
+
+.badge-primary {
+    margin-left: 0;
+}
+
+#taskForm {
+    margin-bottom: 20px;
+}
